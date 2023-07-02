@@ -1,0 +1,1 @@
+DKIM public key(type=TXT,Name=cast._domainkey):: cast._domainkey.pgkean.com TXT v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC25/GROumnlRQStHQy9Olx0lzk+RQ9+TA4BPehRMycyPpQUPCZCNBL3tjDu0Cz4feek64yXfJv9oCusTJWbHmUKFr7pho9GFtYn1O6DULG/JkK1ucWneMaUkR0xbkferwy1f99KQLWH0WCJX6l1In+xqahHRAUvha6Kgj5gOPsBQIDAQAB

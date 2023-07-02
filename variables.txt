@@ -1,0 +1,12 @@
+domainname=pgkean.com
+selector=cast
+keylength=1024
+
+#If one ip
+ip="185.142.238.194"
+
+# For multiple IPs. add with space (include the main ip also) only working for spf now
+ips="185.142.238.194"
+
+dkim_path="/etc/pmta/dkim/"
+
