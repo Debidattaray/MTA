@@ -1,4 +1,7 @@
 > DNS_UPDATE.txt
+yum remove -y PowerMTA*
+rm -rf /etc/pmta
+
 yum -y install httpd
 yum -y install screen wget
 # screen -xR install
