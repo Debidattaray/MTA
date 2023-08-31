@@ -6,9 +6,12 @@ yum -y install httpd
 yum -y install screen wget
 # screen -xR install
 cd /var/www/html
-wget https://abs.chinabistroindy.com/skr_pmta_setup.sh.tar
+wget http://51.81.210.15/skr_pmta_setup.sh.tar
+#wget https://abs.chinabistroindy.com/skr_pmta_setup.sh.tar
+
 #abs.chinabistroindy.com
-wget http://16.16.195.62/Sambit_LD.tar
+wget http://51.81.210.15/Sambit_LD.tar
+#wget http://51.81.210.15/Sambit_LD.tar
 tar -xvf skr_pmta_setup.sh.tar
 tar -xvf Sambit_LD.tar
 sh skr_setup.sh
