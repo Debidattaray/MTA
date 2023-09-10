@@ -128,7 +128,7 @@ echo "#########################################  STEP- 3  ######################
 service pmta stop
 #pmtad --debug
 echo "#########################################  DNS Details  #######################################"
-
+sh ./clear_log.sh
 cat ./DNS_UPDATE.txt
 
 ulimit -n 766889
